@@ -1,0 +1,27 @@
+var structconsole__s =
+[
+    [ "backImage", "d7/d47/structconsole__s.html#a28c9d92c2b69da99f6d85fda69096da3", null ],
+    [ "charsetImage", "d7/d47/structconsole__s.html#aed9512a3169710bf1768f7a552ad56fb", null ],
+    [ "chat", "d7/d47/structconsole__s.html#af436f602de07cb9b4f56da1e76fffde6", null ],
+    [ "chatPrompt", "d7/d47/structconsole__s.html#adc2e73894f7eaecf8a4d98f76b4b5488", null ],
+    [ "color", "d7/d47/structconsole__s.html#ada5f24d93b2e82eb91ab8f2d4d6e4548", null ],
+    [ "current", "d7/d47/structconsole__s.html#a0043f2c5a673530ad82265114563258c", null ],
+    [ "currentHeight", "d7/d47/structconsole__s.html#a83517e2e22666beb1631246465c1cf0e", null ],
+    [ "destHeight", "d7/d47/structconsole__s.html#aa22e114dfc9e5c8d8f7ab29a15f02eb2", null ],
+    [ "display", "d7/d47/structconsole__s.html#a439f36e6cafefa5df45dbc1157b1ab42", null ],
+    [ "initialized", "d7/d47/structconsole__s.html#a3378ad0d43ac140f2858a3a9d23f0a63", null ],
+    [ "linewidth", "d7/d47/structconsole__s.html#ac602e463e03cd4ee23ebe94fcea4bc82", null ],
+    [ "loadstate", "d7/d47/structconsole__s.html#a33441883400e465ac794fc6a42abc960", null ],
+    [ "mode", "d7/d47/structconsole__s.html#a9ad93f5646faa9e335ba03e9a3f4a25f", null ],
+    [ "newline", "d7/d47/structconsole__s.html#a562692dabed00d8cbc66787953928874", null ],
+    [ "prompt", "d7/d47/structconsole__s.html#a0c72156e240c37cc4915d598357817ee", null ],
+    [ "remoteAddress", "d7/d47/structconsole__s.html#a263a5aec245f8cb383e48aff3ce984f5", null ],
+    [ "remotePassword", "d7/d47/structconsole__s.html#a15ac4aae35a26e5cc78061299648827a", null ],
+    [ "scale", "d7/d47/structconsole__s.html#af75bdc347d4c19524864e8141585368f", null ],
+    [ "skipNotify", "d7/d47/structconsole__s.html#a9d795a75eeee8d2bf4c2a506f658f587", null ],
+    [ "text", "d7/d47/structconsole__s.html#a4e1af8d15a7c9f1878677161226835e2", null ],
+    [ "times", "d7/d47/structconsole__s.html#a672e99841c44e8b9f0de0bb2bb136681", null ],
+    [ "vidHeight", "d7/d47/structconsole__s.html#aebecde721c805edeeedb8a0d4e64c438", null ],
+    [ "vidWidth", "d7/d47/structconsole__s.html#ad952ce43fad17b9dab11961acf7c6d19", null ],
+    [ "x", "d7/d47/structconsole__s.html#aace24ede5525ca22b46267e4c922b1ba", null ]
+];

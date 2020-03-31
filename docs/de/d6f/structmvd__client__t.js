@@ -1,0 +1,28 @@
+var structmvd__client__t =
+[
+    [ "admin", "de/d6f/structmvd__client__t.html#a5ae72064a79844684b8d1e5f93cf3339", null ],
+    [ "begin_time", "de/d6f/structmvd__client__t.html#a28377f3abe81f72e781d2939a512c18b", null ],
+    [ "chase_auto", "de/d6f/structmvd__client__t.html#a43b8c6b805a6e4e39162aef474e869e9", null ],
+    [ "chase_bitmap", "de/d6f/structmvd__client__t.html#ae8af9945f89c28ffc7312adbdf4464a8", null ],
+    [ "chase_mask", "de/d6f/structmvd__client__t.html#acc67c3ede9eccb6457e23fb21238fdd1", null ],
+    [ "chase_wait", "de/d6f/structmvd__client__t.html#a54284515a69864129936720131ffedd4", null ],
+    [ "cl", "de/d6f/structmvd__client__t.html#adf70481de365bc2ce114b07e3874b388", null ],
+    [ "clientNum", "de/d6f/structmvd__client__t.html#a0aa6f5a004f2153d438eec29eb329bed", null ],
+    [ "entry", "de/d6f/structmvd__client__t.html#a476ff71189bcab256222434580268c47", null ],
+    [ "floodHead", "de/d6f/structmvd__client__t.html#a318b0d02a460d375de067d663d08ad94", null ],
+    [ "floodSamples", "de/d6f/structmvd__client__t.html#a111923cd586bb8cec22b12ee37893f73", null ],
+    [ "floodTime", "de/d6f/structmvd__client__t.html#af70214dd32e5c36a971f9abcdde94ba3", null ],
+    [ "fov", "de/d6f/structmvd__client__t.html#a8a8f1dff47b3997f17d2178d70e1032b", null ],
+    [ "jump_held", "de/d6f/structmvd__client__t.html#ac79e564660c3cff7a96e72d36516b832", null ],
+    [ "lastcmd", "de/d6f/structmvd__client__t.html#a364302e6968fc253165a6bc22d19625d", null ],
+    [ "layout_cursor", "de/d6f/structmvd__client__t.html#aa4f08ecf08385c7682b04e0391605ebe", null ],
+    [ "layout_time", "de/d6f/structmvd__client__t.html#a8d22d72c5ae017d467af9fb06ba7746d", null ],
+    [ "layout_type", "de/d6f/structmvd__client__t.html#a5a3a680d1c0a3f6bdd021cc49d3561c5", null ],
+    [ "mvd", "de/d6f/structmvd__client__t.html#aad156d164af4f9dcc4fbe0c3ef591ca8", null ],
+    [ "notified", "de/d6f/structmvd__client__t.html#a164f1b5e8930c647d86ea7edb9f00b5c", null ],
+    [ "oldtarget", "de/d6f/structmvd__client__t.html#ac18a65cadafd05f96ca774bf726351d1", null ],
+    [ "ping", "de/d6f/structmvd__client__t.html#ae0dcaf57c4da357671abe96dd7947119", null ],
+    [ "ps", "de/d6f/structmvd__client__t.html#a827e3e392649b5bad37b53cdbd635b02", null ],
+    [ "target", "de/d6f/structmvd__client__t.html#a6ab2c802ba67bc2ddfb657010380276f", null ],
+    [ "uf", "de/d6f/structmvd__client__t.html#a721f6cdd8ef037b2043e40244164734d", null ]
+];

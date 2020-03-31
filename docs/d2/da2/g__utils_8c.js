@@ -1,0 +1,26 @@
+var g__utils_8c =
+[
+    [ "MAXCHOICES", "d2/da2/g__utils_8c.html#a77b70902ca7fddb703be10935e051a65", null ],
+    [ "findradius", "d2/da2/g__utils_8c.html#a6cb145f0d38e0a4f34a53ffc30eaae4d", null ],
+    [ "G_CopyString", "d2/da2/g__utils_8c.html#ac8c106e34aa00c3fda62096b34e295cc", null ],
+    [ "G_Find", "d2/da2/g__utils_8c.html#a13a8d774b3e04e014a6287195a4cb463", null ],
+    [ "G_FreeEdict", "d2/da2/g__utils_8c.html#ad0d7da9426e7403f56d50255fdd2cf30", null ],
+    [ "G_InitEdict", "d2/da2/g__utils_8c.html#a8fc23f207851e71a7caf3cb1f9f48838", null ],
+    [ "G_PickTarget", "d2/da2/g__utils_8c.html#af86dbca2f65c89053dd7a04a97ac56f2", null ],
+    [ "G_ProjectSource", "d2/da2/g__utils_8c.html#ad56e36391090043174fe875d823a6d0d", null ],
+    [ "G_SetMovedir", "d2/da2/g__utils_8c.html#a8966a3677c9152f498a5c9a18f915ae3", null ],
+    [ "G_Spawn", "d2/da2/g__utils_8c.html#a015feebdd0de52e2de27451c20f1bbf3", null ],
+    [ "G_TouchSolids", "d2/da2/g__utils_8c.html#ab06eb78180bca1928aa843073bec78d0", null ],
+    [ "G_TouchTriggers", "d2/da2/g__utils_8c.html#a8abca56b7c47aebbae3be0ea5fd63973", null ],
+    [ "G_UseTargets", "d2/da2/g__utils_8c.html#a16b9e448cb92a3ab8758108d64b6095b", null ],
+    [ "KillBox", "d2/da2/g__utils_8c.html#a3bd09273cd6ae58036e21c68669606af", null ],
+    [ "Think_Delay", "d2/da2/g__utils_8c.html#a459936bb3811c97f9b8502e9dd0510b2", null ],
+    [ "tv", "d2/da2/g__utils_8c.html#a68b63b86af9160f2013d9b5e60254d07", null ],
+    [ "vectoangles", "d2/da2/g__utils_8c.html#a2ca6050ddc2a359af922ccbb9ba2ed82", null ],
+    [ "vectoyaw", "d2/da2/g__utils_8c.html#a701e9bb021d30af33092dece1a74961a", null ],
+    [ "vtos", "d2/da2/g__utils_8c.html#a97f5ab73714caeeeb9d3a832d32152ab", null ],
+    [ "MOVEDIR_DOWN", "d2/da2/g__utils_8c.html#a4326cca819b1ad6c1a4a679ff7724288", null ],
+    [ "MOVEDIR_UP", "d2/da2/g__utils_8c.html#ab7f65e9b8b40fcb3f3e5b6e2e04b75f7", null ],
+    [ "VEC_DOWN", "d2/da2/g__utils_8c.html#aa1eae2e8e05d14a9c3232a266543d3a6", null ],
+    [ "VEC_UP", "d2/da2/g__utils_8c.html#a59e2061a8454d812c98039f71506dc07", null ]
+];

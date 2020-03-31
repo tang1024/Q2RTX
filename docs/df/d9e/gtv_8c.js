@@ -1,0 +1,27 @@
+var gtv_8c =
+[
+    [ "build_gamestate", "df/d9e/gtv_8c.html#a960506c126784c7af231f840e8b43747", null ],
+    [ "CL_GTV_EmitFrame", "df/d9e/gtv_8c.html#a1fac5f639e2e2bf5913bf06abb4bf996", null ],
+    [ "CL_GTV_Init", "df/d9e/gtv_8c.html#a13f71fce49716e51064988a8f2b13a3c", null ],
+    [ "CL_GTV_Resume", "df/d9e/gtv_8c.html#ab1db21231c39b44a9402c9a3015f4bdf", null ],
+    [ "CL_GTV_Run", "df/d9e/gtv_8c.html#ac68892dabf279b6622bfe79d677acf4f", null ],
+    [ "CL_GTV_Shutdown", "df/d9e/gtv_8c.html#a883f6a598c921dbd0b7cb1ff7c1ed8b2", null ],
+    [ "CL_GTV_Start_f", "df/d9e/gtv_8c.html#a13d1244005a24b97fb72a1c07a8dba72", null ],
+    [ "CL_GTV_Status_f", "df/d9e/gtv_8c.html#a5e7043d5e9a302a70136e85d32e07a31", null ],
+    [ "CL_GTV_Stop_f", "df/d9e/gtv_8c.html#adcfd7d3c76059622fba331f1f11f773a", null ],
+    [ "CL_GTV_Suspend", "df/d9e/gtv_8c.html#aa9cc578667f7be8a084b9aad64a220f6", null ],
+    [ "CL_GTV_Transmit", "df/d9e/gtv_8c.html#ab294ba76ae3aa7b4b71ab9660d163657", null ],
+    [ "CL_GTV_WriteMessage", "df/d9e/gtv_8c.html#a97983d4e6f87431cf0eef12fa0da8334", null ],
+    [ "drop_client", "df/d9e/gtv_8c.html#a5bb114cf88fa2f017cb789dd1b3d616c", null ],
+    [ "emit_gamestate", "df/d9e/gtv_8c.html#a1e9699cf0399313f2b143382ba1796d5", null ],
+    [ "parse_hello", "df/d9e/gtv_8c.html#ae209dd9b94b887b4988fd90d94362a2a", null ],
+    [ "parse_message", "df/d9e/gtv_8c.html#a0e7340c404fa5f6413657101b8276373", null ],
+    [ "parse_ping", "df/d9e/gtv_8c.html#a13e87e385ea72ff4971ba87af57330f6", null ],
+    [ "parse_stream_start", "df/d9e/gtv_8c.html#a719e43ccb3b0a4e17756ac454deb0824", null ],
+    [ "parse_stream_stop", "df/d9e/gtv_8c.html#a23bc45339ea199def39f425a29d9c987", null ],
+    [ "write_message", "df/d9e/gtv_8c.html#adb8c0dbf4c9be64792fee7d27807d267", null ],
+    [ "write_stream", "df/d9e/gtv_8c.html#aa750bbf806f55289c2c3b3113f628c48", null ],
+    [ "gtv_message_buffer", "df/d9e/gtv_8c.html#a443ccfe96c56d5bc1c2f9562ae8f2a3d", null ],
+    [ "gtv_recv_buffer", "df/d9e/gtv_8c.html#a9ca748ca0b78e193ccf66a9751f15b28", null ],
+    [ "gtv_send_buffer", "df/d9e/gtv_8c.html#a62eaf19a6dd368632609fdcaf97c871b", null ]
+];

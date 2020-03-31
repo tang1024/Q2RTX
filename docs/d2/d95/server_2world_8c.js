@@ -1,0 +1,27 @@
+var server_2world_8c =
+[
+    [ "areanode_s", "db/df7/structareanode__s.html", "db/df7/structareanode__s" ],
+    [ "AREA_DEPTH", "d2/d95/server_2world_8c.html#ad70f09ef70a9a0826a82f94a5c028bfe", null ],
+    [ "AREA_NODES", "d2/d95/server_2world_8c.html#a6700f4466799a200bb771cb40661309f", null ],
+    [ "areanode_t", "d2/d95/server_2world_8c.html#a7d16058283b5d47122facb7516ee19b4", null ],
+    [ "PF_LinkEdict", "d2/d95/server_2world_8c.html#ae02996ec3c2d7da07da99028c62ddcc7", null ],
+    [ "PF_UnlinkEdict", "d2/d95/server_2world_8c.html#afbaf042202b6e07c712042a2cba182b6", null ],
+    [ "SV_AreaEdicts", "d2/d95/server_2world_8c.html#a8eb6359b203f7aab76c6c55e763a9945", null ],
+    [ "SV_AreaEdicts_r", "d2/d95/server_2world_8c.html#a244e2dedf32041272590e006a84ee47b", null ],
+    [ "SV_ClearWorld", "d2/d95/server_2world_8c.html#a13a51d141ca3c0f030f5f4427a491f84", null ],
+    [ "SV_ClipMoveToEntities", "d2/d95/server_2world_8c.html#aa4d97faf9cee2116b6051a68726ae71b", null ],
+    [ "SV_CreateAreaNode", "d2/d95/server_2world_8c.html#a897e146e399effb4641bac5a045455bf", null ],
+    [ "SV_EdictIsVisible", "d2/d95/server_2world_8c.html#a8c5f551ab6788b46ee6b1ede898c7788", null ],
+    [ "SV_HullForEntity", "d2/d95/server_2world_8c.html#af092fb2194da854b582695cc32a922e4", null ],
+    [ "SV_LinkEdict", "d2/d95/server_2world_8c.html#ab5f372ca7ab1bcfbc675f7ad7540abb4", null ],
+    [ "SV_PointContents", "d2/d95/server_2world_8c.html#a25d6729a5fdcf72346d4bb860b1707fe", null ],
+    [ "SV_Trace", "d2/d95/server_2world_8c.html#a3c9e1ffe6ee66c20ad69315186f06cdb", null ],
+    [ "area_count", "d2/d95/server_2world_8c.html#ad6bd41b5f8c82302006a1be9be7dfc6a", null ],
+    [ "area_list", "d2/d95/server_2world_8c.html#af9eb5078356de598d1fbb6134f6fe260", null ],
+    [ "area_maxcount", "d2/d95/server_2world_8c.html#ae792693a4535b66bd181094923de96d7", null ],
+    [ "area_maxs", "d2/d95/server_2world_8c.html#ab0e97d3ae6783f728ff8f579f9710e3f", null ],
+    [ "area_mins", "d2/d95/server_2world_8c.html#ac13c106ec9950426a08982e037f8d3fe", null ],
+    [ "area_type", "d2/d95/server_2world_8c.html#aa40204b39963e51dd6331321edcec856", null ],
+    [ "sv_areanodes", "d2/d95/server_2world_8c.html#ad3c791e57739ef68ab7361b1eef94220", null ],
+    [ "sv_numareanodes", "d2/d95/server_2world_8c.html#a054d39b420440c3c6e6051cd48d2881b", null ]
+];

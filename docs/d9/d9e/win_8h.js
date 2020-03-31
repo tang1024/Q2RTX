@@ -1,0 +1,28 @@
+var win_8h =
+[
+    [ "os_accept", "d9/d9e/win_8h.html#a347c3e7d6d8a2dd2956135a095542842", null ],
+    [ "os_add_io", "d9/d9e/win_8h.html#a5e0111e53cfa9b5ff540ff9a96709fb2", null ],
+    [ "os_bind", "d9/d9e/win_8h.html#af049611b376a2716fc31124f5fa5cd30", null ],
+    [ "os_closesocket", "d9/d9e/win_8h.html#af0875fb5bf7b1e2ef30c33dd9c9fff9e", null ],
+    [ "os_connect", "d9/d9e/win_8h.html#adc82b49b5a12a45e90f832491378f681", null ],
+    [ "os_error_string", "d9/d9e/win_8h.html#add099db6977fc3c530d4588b3df02180", null ],
+    [ "os_get_error", "d9/d9e/win_8h.html#afa8068d97900f01ad49932534eda39f6", null ],
+    [ "os_get_fd", "d9/d9e/win_8h.html#a463a8d8414c47efeac1bdf6df1e9dd14", null ],
+    [ "os_get_io", "d9/d9e/win_8h.html#ac57c6eaa9356536533503a2e7c173117", null ],
+    [ "os_getsockname", "d9/d9e/win_8h.html#adfaab94ba8886321835ea74126e99d5d", null ],
+    [ "os_getsockopt", "d9/d9e/win_8h.html#abcecf3c675c14a30b31c13c690889ad5", null ],
+    [ "os_listen", "d9/d9e/win_8h.html#ad9ed9d52316dc8d338e69d9e413cd0e6", null ],
+    [ "os_make_nonblock", "d9/d9e/win_8h.html#a7e76cb781247cafbc267027d5e50c6dc", null ],
+    [ "os_net_init", "d9/d9e/win_8h.html#a56f0f84b3b08a374b441febb76385f00", null ],
+    [ "os_net_shutdown", "d9/d9e/win_8h.html#a3019b76b5fd3e5db214047b51c4c8642", null ],
+    [ "os_recv", "d9/d9e/win_8h.html#a6fa79e459747353e6231288676c12a6f", null ],
+    [ "os_select", "d9/d9e/win_8h.html#ab562dd398f65a00fa0cd117fe8206076", null ],
+    [ "os_send", "d9/d9e/win_8h.html#a1db025049f3c1eab6b9e7cbf1da9494b", null ],
+    [ "os_setsockopt", "d9/d9e/win_8h.html#a039d8f5ff25e0cbb4ef213b93bdc8da3", null ],
+    [ "os_socket", "d9/d9e/win_8h.html#a90cd3525889c09fd126c3cee928ae242", null ],
+    [ "os_udp_recv", "d9/d9e/win_8h.html#a5dc2be347b3c5462c5eb02cbe2cd890b", null ],
+    [ "os_udp_send", "d9/d9e/win_8h.html#a25a056eb766b1febaf50ff0398f262fb", null ],
+    [ "err", "d9/d9e/win_8h.html#a6ce68847c12434f60d1b2654a3dc3409", null ],
+    [ "msg", "d9/d9e/win_8h.html#a2c3cb87d009c003069b9a90f020f8a9f", null ],
+    [ "wsa_error_table", "d9/d9e/win_8h.html#ae56660423a9c5aee50a0372f1246d7c8", null ]
+];

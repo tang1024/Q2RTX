@@ -1,0 +1,26 @@
+var dinput_8c =
+[
+    [ "DEFINE_STATIC_GUID", "d7/df8/dinput_8c.html#a70897eeb689f70023f9239f288d443f5", null ],
+    [ "DIDFT_OPTIONAL", "d7/df8/dinput_8c.html#ab151a531d322638c706d3cb0d5af55cf", null ],
+    [ "DIRECTINPUT_VERSION", "d7/df8/dinput_8c.html#a1d7ab29fdefabdb4e7e7cd27ac4c9934", null ],
+    [ "LPDIRECTINPUTCREATE", "d7/df8/dinput_8c.html#a06c3b195309f008b2eb5ce8f98a746fa", null ],
+    [ "DEFINE_STATIC_GUID", "d7/df8/dinput_8c.html#a3081cd2874e06e2a9b3270493e1af3a8", null ],
+    [ "DEFINE_STATIC_GUID", "d7/df8/dinput_8c.html#a364d9ef225917a9d0ea86ab5e3b7841c", null ],
+    [ "DEFINE_STATIC_GUID", "d7/df8/dinput_8c.html#af6b1c4a1164e25b1239a10dd6bccfcff", null ],
+    [ "DEFINE_STATIC_GUID", "d7/df8/dinput_8c.html#a47eaa0db2c200c051fb53340e181d1ae", null ],
+    [ "DI_FillAPI", "d7/df8/dinput_8c.html#ac27175e207470eb0de4e84f022c51bd3", null ],
+    [ "DI_GetMouseEvents", "d7/df8/dinput_8c.html#a674ff229f1be006aceb213038be1aa74", null ],
+    [ "DI_GetMouseMotion", "d7/df8/dinput_8c.html#ae766416b367386ecb7f11801633b4544", null ],
+    [ "DI_GrabMouse", "d7/df8/dinput_8c.html#a9fd1fcd32cedd88b25def0e2cd9f2b97", null ],
+    [ "DI_InitMouse", "d7/df8/dinput_8c.html#a2216bc0d8023cf4048e268b367c9cb15", null ],
+    [ "DI_ShutdownMouse", "d7/df8/dinput_8c.html#aa7bbccdce431a5371c203fd655ec423c", null ],
+    [ "di", "d7/df8/dinput_8c.html#a6c3ae3d5a25727d30c6efc770d2f0fa6", null ],
+    [ "di_grabbed", "d7/df8/dinput_8c.html#a4538f2a88477f244c33ca228f49433ef", null ],
+    [ "di_initialized", "d7/df8/dinput_8c.html#a763724cc8cad73be7b61993fe2730ddd", null ],
+    [ "di_mouse", "d7/df8/dinput_8c.html#aa0b01d67185d2791326402f3b4726764", null ],
+    [ "hDirectInput", "d7/df8/dinput_8c.html#a0cb626b1f69bd9982eeacc4bd81f277c", null ],
+    [ "mouseBufferSize", "d7/df8/dinput_8c.html#a33dfc87247fc1d75b1ab0b5f3aae09a0", null ],
+    [ "mouseDataFormat", "d7/df8/dinput_8c.html#af110928fd291b84e2d417f1e8e4a1a2b", null ],
+    [ "mouseObjectDataFormat", "d7/df8/dinput_8c.html#a7b448f4e03c4cf34ce9eb701110c7458", null ],
+    [ "pDirectInputCreate", "d7/df8/dinput_8c.html#af7e5d25bcf31e95170ea4e3fbaf9b5b7", null ]
+];
